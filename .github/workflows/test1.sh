@@ -1,4 +1,4 @@
-root=/home/timur/BaltaevTimur/workspace/lab04/
+root=/home/timur/BaltaevTimur/workspace/lab04
 cmake --build $root/formatter_lib
 cmake --build $root/formatter_ex_lib 
 cmake --build $root/hello_world_application 
