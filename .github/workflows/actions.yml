@@ -2,7 +2,7 @@ name: testDocker
 
 on:
  push:
-  branches: [master]
+  branches: [main]
 
 
 jobs: 
