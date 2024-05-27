@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 
 cmake_minimum_required(VERSION 3.22.1) 
+=======
+>>>>>>> d030636afff4da21e6a6f0410bbe5150d7f667e7
 project(solver)				
 set(SOURCE_EXE equation.cpp)			
 include_directories("${CMAKE_CURRENT_SOURCE_DIR}/../formatter_ex_lib/"
