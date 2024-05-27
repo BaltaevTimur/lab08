@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> f4a16b4c2e5d6697d90d574f163c916f84454178
 project(solver)				
 set(SOURCE_EXE equation.cpp)			
 include_directories("${CMAKE_CURRENT_SOURCE_DIR}/../formatter_ex_lib/"
