@@ -1,6 +1,0 @@
-/home/timur/BaltaevTimur/workspace/lab04/solver_application/_build/CMakeFiles/solver.dir
-/home/timur/BaltaevTimur/workspace/lab04/solver_application/_build/CMakeFiles/formatter.dir
-/home/timur/BaltaevTimur/workspace/lab04/solver_application/_build/CMakeFiles/formatter_ex.dir
-/home/timur/BaltaevTimur/workspace/lab04/solver_application/_build/CMakeFiles/main.dir
-/home/timur/BaltaevTimur/workspace/lab04/solver_application/_build/CMakeFiles/edit_cache.dir
-/home/timur/BaltaevTimur/workspace/lab04/solver_application/_build/CMakeFiles/rebuild_cache.dir
